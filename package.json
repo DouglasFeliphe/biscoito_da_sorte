@@ -12,6 +12,9 @@
   "dependencies": {
     "@react-native-community/picker": "^1.8.1",
     "@react-native-community/slider": "^4.2.4",
+    "appcenter": "4.4.5",
+    "appcenter-analytics": "4.4.5",
+    "appcenter-crashes": "4.4.5",
     "react": "18.0.0",
     "react-native": "0.69.1"
   },
